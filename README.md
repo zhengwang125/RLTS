@@ -6,7 +6,7 @@ This is the Implementation of our paper "Trajectory Simplification with Reinforc
 
 * Linux Ubuntu OS (16.04 is tested)
 * Python >= 3.5 (Anaconda3 is recommended and 3.6 is tested)
-* [Tensorflow-GPU](https://www.tensorflow.org/install/gpu) (1.8.0 is tested)
+* Tensorflow (1.8.0 is tested)
 
 Please refer to the source code to install the required packages that has not been installed in your environment such as matplotlib in Python for visualization. You can install packages with conda in a shell as
 
