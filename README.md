@@ -1,6 +1,6 @@
 # RLTS
 
-This is the Implementation of our paper "Trajectory Simplification with Reinforcement Learning" (ICDE 2021).
+This is the implementation of our paper "Trajectory Simplification with Reinforcement Learning" (ICDE 2021).
 
 ## Requirements
 
